@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "GramSetu Farmer Profile & Agri Marketplace",
+  "short_name": "GramSetu",
+  "description": "Rural agricultural marketplace, direct farm selling, mandi comparison, and offline-ready farmer dashboard.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14532d",
+  "theme_color": "#14532d",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "GramSetu Farmer Profile Dashboard",
+  "description": "A modern, responsive farmer profile section prototype matching GramSetu visual standards with demo data, crop listings, analytics, and verification states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
